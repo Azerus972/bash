@@ -61,9 +61,9 @@ echo e- "
 ------------------------------------------------------------
 "
 
-read -p " Votre choix : " tellya
+read -p " Votre choix : " reponse
 
-case $tella in
+case $reponse in
 
 1)
 
