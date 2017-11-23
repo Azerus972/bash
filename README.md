@@ -6,7 +6,7 @@ Script Bash
 INTRODUCTION    La branche Alpha dispose d'une realese de plus que la branche master.
 
 ----------------------------------------------------------------------------------------------------------
-Warning Alpha version....somes bugs can appears..
+Warning....somes bugs can appears..
 
 1) 
 
