@@ -2,7 +2,7 @@
 echo " Initialisation du logiciel...."
 
 
-echo "Bienvenu sur My Bash Instalator, que souhaitez-vous faire ?"
+echo "Bienvenu sur My BashZerus, que souhaitez-vous faire ?"
 
 echo -e "
 ------------------------------------------------------------
