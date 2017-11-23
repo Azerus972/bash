@@ -27,7 +27,7 @@ vagrant init;
 
 echo "
 ------------------------------------------------------------
-Fichier crée / Si déjà existant aucun doublon e sera crée
+Fichier crée / Si déjà existant aucun doublon ne sera crée
 ------------------------------------------------------------
 ";;
 
